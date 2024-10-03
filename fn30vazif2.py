@@ -49,3 +49,5 @@ except ValueError:
     print("Iltimos, sanani to'g'ri formatda kiriting.")
 
 # kodni qo'shish amalga oshirildi
+
+# Amallar bajarish yakunlandi, endi uni Github ga ulash qoldi
